@@ -1,0 +1,8 @@
+{
+  "loginScreen": {
+    "title": "ようこそ。以下からログインしてください",
+    "usernameLabel": "ユーザー名",
+    "passwordLabel": "パスワード",
+    "loginBtnLabel": "ログイン"
+  }
+}

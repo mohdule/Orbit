@@ -1,0 +1,9 @@
+{
+  "loginScreen": {
+    "title": "من الجيد رؤيتك عدت إلى المدار، قم بتسجيل الدخول أدناه",
+    "usernameLabel": "اسم المستخدم",
+    "passwordLabel": "كلمة المرور",
+    "loginBtnLabel": "تسجيل الدخول"
+  }
+}
+  
